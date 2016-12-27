@@ -1,0 +1,3 @@
+rootProject.name = 'eyestimate'
+
+include ':app'

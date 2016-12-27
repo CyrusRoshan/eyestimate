@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-9580cdb965a670f913bcb2119e63c62137fe7d6f.jar" />
+    </item>
+    <item
+        jar="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/pre-dexed/debug/classes-ea349b0970ba4f6cd2ded86568bf1e271b6bdba3.jar" />
+    </item>
+    <item
+        jar="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/pre-dexed/debug/classes-018d1ebbcfb174bff018107295fbadce1eea5c62.jar" />
+    </item>
+    <item
+        jar="/Users/CyrusRoshan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-daefcc8b133672fa70deebee140addd898babb73.jar" />
+    </item>
+    <item
+        jar="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/pre-dexed/debug/classes-c9989612c1070f8e289036ec67623ca7da797c02.jar" />
+    </item>
+    <item
+        jar="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/pre-dexed/debug/classes-3d86afd3188595b3f8e2d52a5bdd008906444f52.jar" />
+    </item>
+    <item
+        jar="/Users/CyrusRoshan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-a73f9d7af4e63441f7739fc63ae4f6353a0e5b9a.jar" />
+    </item>
+    <item
+        jar="/Users/CyrusRoshan/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-0ab660396d9d5db2d19507dcc1d7516f9e6e883a.jar" />
+    </item>
+    <item
+        jar="/Users/CyrusRoshan/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-68e8f8ca470e4e7ee4d0b17fb6988442dc3b1872.jar" />
+    </item>
+    <item
+        jar="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/pre-dexed/debug/classes-4ba51f08599ff87c302999958481507180dbbbab.jar" />
+    </item>
+    <item
+        jar="/Users/CyrusRoshan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-fc20cf32764206ce10ea1459249e45cff04895ce.jar" />
+    </item>
+    <item
+        jar="/Users/CyrusRoshan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-0bf4641957378f60e84fb63fc5494ae9c948326a.jar" />
+    </item>
+    <item
+        jar="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/pre-dexed/debug/classes-0fc1ab2147da1557eceb99c3d11aa15b95e295ae.jar" />
+    </item>
+    <item
+        jar="/Users/CyrusRoshan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-93ca6b9936c80673f75bc60cafc083b689e899d0.jar" />
+    </item>
+    <item
+        jar="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5268ed090600db4ceb72b055927f4f9cbd79465c">
+        <dex dex="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-e70a2ce27e2877bc2a42bacad18cb7053bb677d9.jar" />
+    </item>
+    <item
+        jar="/Users/CyrusRoshan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-971bcc1c11b0c3be52bd1eb1d0b7fa6ac2716d91.jar" />
+    </item>
+    <item
+        jar="/Users/CyrusRoshan/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-24ba6fafa412655313fbdbd0bb7042bf770240a8.jar" />
+    </item>
+    <item
+        jar="/Users/CyrusRoshan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-b2ec5f955d51754689d7cc8a67bd52e7f3975e14.jar" />
+    </item>
+    <item
+        jar="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/pre-dexed/debug/classes-8bca215548faa64b63a7a90eabdcffbcc82e07de.jar" />
+    </item>
+    <item
+        jar="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/pre-dexed/debug/classes-f4a317ad870654c78b2dbb900587b71a532e88de.jar" />
+    </item>
+    <item
+        jar="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/pre-dexed/debug/classes-141eb59a3db41268e0e9109efcc713a40d823a0e.jar" />
+    </item>
+    <item
+        jar="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/pre-dexed/debug/classes-a58e7f3f5e692038d43ac80a4fa737d670326967.jar" />
+    </item>
+    <item
+        jar="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="035e9c4ef05bd4e0f34f48fbfb073f98fcf58af0">
+        <dex dex="/Users/CyrusRoshan/GitHub/Mine/eyestimate/android/app/build/intermediates/pre-dexed/debug/classes-f65ba98757ea69ed68dad6f99f569e8e6aca9241.jar" />
+    </item>
+
+</items>
