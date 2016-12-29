@@ -6,7 +6,7 @@ export default class LoadScreen extends Component {
     super(props);
     this.state = {
       opacity: 1,
-      initialDelay: 700,
+      initialDelay: 300,
       granularity: 10,
     };
   }

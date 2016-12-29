@@ -1,12 +1,15 @@
 import React, { Component } from 'react';
-import { AppRegistry, StyleSheet, Text, View } from 'react-native';
+import { AppRegistry, Text, View } from 'react-native';
+
 import LoadScreen from './components/LoadScreen';
+import MainScreen from './components/MainScreen';
 
 export default class eyestimate extends Component {
   render() {
     return (
-      <View>
-        <LoadScreen/>
+      <View style={{flex: 1}}>
+        {/* <LoadScreen/> */}
+        <MainScreen/>
       </View>
     );
   }
